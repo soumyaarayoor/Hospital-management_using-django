@@ -1,0 +1,13 @@
+li:hover{
+    background-color: azure;
+    color:crimson;
+    border-radius: 10px;
+}
+img{
+    width:1350px;
+    height:595px;
+}
+a{
+    font-weight: bold;
+    color:burlywood;
+}
